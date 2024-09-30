@@ -1,0 +1,10 @@
+{
+    "search.useIgnoreFiles": false,
+    "search.exclude": {
+        "**/*.code-search": false,
+        "**/bower_components": false,
+        "**/node_modules": false
+    },
+    "search.experimental.notebookSearch": true,
+    "search.quickOpen.includeSymbols": true
+}
